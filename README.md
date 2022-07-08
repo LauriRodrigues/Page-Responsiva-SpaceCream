@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo Explorer" title="Explorer" src="./readme/Logo1.png">
+  <img alt="Logo Explorer" title="Explorer" src="./assets/readme/Logo1.png">
 </div>
 	
 <h4 align="center"> 
@@ -7,11 +7,11 @@
 </h4>
 
 <div align="center">
-  <img alt="GitHub language count" src="">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/LauriRodrigues/Page-Responsiva-SpaceCream">
 
-  <img alt="GitHub repo size" src="">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LauriRodrigues/Page-Responsiva-SpaceCream">
   
-  <img alt="GitHub last commit" src="">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LauriRodrigues/Page-Responsiva-SpaceCream?color=1280bf">
   
   <a href="https://laurirodrigues.github.io/Page-Responsiva-SpaceCream/"> ▶️ Visualizar Deploy </a>
 </div>
@@ -27,13 +27,13 @@
 </div>
 
 <h2 align=left> 🎨 Layout </h2>
-<a href="https://www.figma.com/file/FP2QcacCMoqKTbiD2pbVzV/Stage-03---Mobile-First-(Copy)?node-id=0%3A1"> Visualizar no Figma  (Mobile)</a>
+<a href="https://www.figma.com/file/FP2QcacCMoqKTbiD2pbVzV/Stage-03---Mobile-First-(Copy)?node-id=0%3A1"> Visualizar no Figma  (Mobile)</a> </br>
 <a href="https://www.figma.com/file/MhU8Zd9pFbe0KkkkEAIGmG/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)?node-id=0%3A3"> Visualizar no Figma  (Desktop)</a>
 
 <h4>💻 Desktop </h4>
 
-<img alt="Versão Desktop" title="Desktop" src="./readme/Desktop.png" width="70%">
+<img alt="Versão Desktop" title="Desktop" src="./assets/readme/Desktop.png" width="70%">
 
 <h4>📱​ Mobile </h4>
 
-<img alt="Versão Mobile" title="Mobile" src="./readme/Mobile.png" width="25%">
+<img alt="Versão Mobile" title="Mobile" src="./assets/readme/Mobile.png" width="25%">
