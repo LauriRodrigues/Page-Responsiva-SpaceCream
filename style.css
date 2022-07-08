@@ -183,7 +183,6 @@ footer a {
   body {
     display: grid;
     grid-template-columns: 1fr 2fr;
-    gap: 1.5rem;
     overflow: overlay;
   }
 
@@ -194,6 +193,7 @@ footer a {
  
   #colB {
     height: 100vh;
+    margin-inline: 2rem;
   }
 
   header p {
