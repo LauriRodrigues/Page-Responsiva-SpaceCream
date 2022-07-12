@@ -202,10 +202,10 @@ footer a {
  grid-template-areas: "A B"
                       "D B"
                       "D C";
- width: 100%;
+ width: 100vw;
  gap: 2.5rem;
  margin-bottom: 4rem;
- padding-inline: 1rem;
+ padding-inline: 5rem;
 }
 
 }
@@ -218,7 +218,6 @@ footer a {
 
   body {
     display: flex;
-    overflow: overlay;
   }
 
   #colA {
