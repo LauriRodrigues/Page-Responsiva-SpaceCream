@@ -202,9 +202,8 @@ footer a {
  grid-template-areas: "A B"
                       "D B"
                       "D C";
- width: 100vw;
+ width: 100%;
  gap: 2.5rem;
- margin-bottom: 4rem;
  padding-inline: 5rem;
 }
 
@@ -224,11 +223,6 @@ footer a {
     background-color: var(--light-blue);
     width: 40%;
   }
- 
-  #colB {
-    height: 100vh;
-    margin-inline: 2rem;
-  }
 
   header p {
     font-size: 2rem;
@@ -243,8 +237,6 @@ footer a {
     grid-template-areas: "A B"
                          "D B"
                          "D C";
-    width: 100%;
-    gap: 2.5rem;
     margin-bottom: 4rem;
   }
 
